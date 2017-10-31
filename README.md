@@ -1,2 +1,0 @@
-# VRGame
-Dart Game
